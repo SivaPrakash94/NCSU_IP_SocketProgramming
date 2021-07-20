@@ -2,7 +2,6 @@
 PROJECT #2
 ----------
 Name: Siva Prakash Kuppuswamy   Student ID: 200263687
-Name: Sundaravalli Aravazhi     Student ID: 200270130
 
 Implementing Go Back N Automatic Repeat Request (ARQ) Scheme and Selective Repeat ARQ Protocol
 _______________________________________________________________________________________________
